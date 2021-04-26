@@ -1,0 +1,42 @@
+h1{
+    color:rgb(240, 236, 13);
+    justify-content: center
+   
+}
+.header * {
+    border:solid;
+}
+.header{
+background-color:rgb(195, 21, 218);
+display:flex;
+justify-content:first baseline ;
+}
+
+.grid{
+background-color: rgb(22, 201, 201);
+display:flex;
+flex-wrap: wrap;
+justify-content: space-evenly;
+margin-left: 100px;
+    margin-right: 100px;
+    margin-top: 40px;
+    margin-bottom: 20px;
+}
+
+
+
+.body{
+background-color:rgb(7, 51, 65);
+}
+p,h2{
+color:rgb(38, 2, 43);
+font-family: cursive;
+text-align: center;
+}
+.item{
+position:relative;
+}
+.ss{
+    position:relative;
+    }
+    
